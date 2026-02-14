@@ -27,7 +27,7 @@ const genshinCharacters = [
   },
   {
     id: 3,
-    name: "Raiden Shogun",
+    name: "Raiden",
     about:
       "The undisputed supreme ruler of Inazuma and vessel of Beelzebul, the Electro Archon who pursues unchanging eternity.",
     element: "Electro",
@@ -60,7 +60,7 @@ const genshinCharacters = [
   },
   {
     id: 6,
-    name: "Kamisato Ayaka",
+    name: "Ayaka",
     about:
       "The elegant, noble, and highly capable daughter of the Yashiro Commission's Kamisato Clan.",
     element: "Cryo",
