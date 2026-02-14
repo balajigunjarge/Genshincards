@@ -9,8 +9,8 @@ const genshinCharacters = [
     about: "A free-spirited, wine-loving bard in Mondstadt who is actually the mortal vessel of Barbatos, the Anemo Archon.",
     element: "Anemo",
     region: "Mondstadt",
-    image: "../src/assets/genshin/Venti.PNG",
-    backgroundImage: "../src/assets/genshin/UI_NameCardPic_Venti_P.png",
+    image: "./assets/genshin/Venti.PNG",
+    backgroundImage: "./assets/genshin/UI_NameCardPic_Venti_P.png",
     link:"https://genshin.hoyoverse.com/en/character/mondstadt?char=7"
   },
   {
