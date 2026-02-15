@@ -10,10 +10,10 @@ const Card = (props) => {
           </div>
           <div>
           <h1 className="name">{props.name}</h1>
-          <p className="region" id={props.element}>
+          <section className="region" id={props.element}>
             <p className="region-p">{props.region}</p>
             {props.element}
-          </p>
+          </section>
           </div>
         </section>
         <section className="bottom-info">
