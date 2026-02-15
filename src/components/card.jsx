@@ -1,32 +1,30 @@
 const Card = (props) => {
   return (
     <div className="card">
-      <img src={props.backgroundImage} alt="" className="background-img" />
-      <section className="backdrop">
-        <div>
-          <div className="top-div">
-            <img src={props.image} alt="" className="icon-img" />
-            <h1>
-              {props.id}
-              {props.name}
-              <br />
-              <section className="region">{props.region}</section>
-            </h1>
-          </div>
-          <div>
-            <p>{props.about}</p>
-          </div>
-          <div>
-             <a href={props.link} target="_blank">
-          <button>Learn More</button>
-        </a>
-          </div>
-        </div>
+      <div className="avatar-container">
+        <img src={props.backgroundImage} alt="" className="background-image" />
 
+        <section className="avatar-info">
+          <div>
+            <img src={props.image} alt="" className="avatar" />
+          </div>
+          <div>
+          <h1 className="name">{props.name}</h1>
+          <p className="region" id={props.element}>
+            <p className="region-p">{props.region}</p>
+            {props.element}
+          </p>
+          </div>
+        </section>
+        <section className="bottom-info">
+          <p className="about">{props.about}</p>
+          
+        </section>
         
-
-       
-      </section>
+      </div>
+      <a className={props.element + " learn-more"} href={props.link} target="_blank">
+            Learn More
+          </a>
     </div>
   );
 };
