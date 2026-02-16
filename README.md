@@ -2,14 +2,6 @@
 
 A React application that displays characters from *Genshin Impact* with character name , region, element etc...
 
-
----
-
-## 🚀 Live Demo
-
-> Add your deployed site URL here  
- Url : unknownrealm.space
-
 ---
 
 ## 🧠 Features
