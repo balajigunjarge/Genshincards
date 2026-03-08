@@ -126,7 +126,7 @@
     pfp: "/assets/Genshin/pfp/Ayaka.webp"
   },
   {
-    character: "Kaedehara Kazuha",
+    character: "Kazuha",
     element: "Anemo",
     region: "Inazuma",
     about: "A wandering samurai from a fallen clan who travels the world with Beidou's Crux Fleet.",
@@ -630,7 +630,7 @@
     pfp: "/assets/Genshin/pfp/Gorou.webp"
   },
   {
-    character: "Shikanoin Heizou",
+    character: "Heizou",
     element: "Anemo",
     region: "Inazuma",
     about: "A brilliant but rebellious detective for the Tenryou Commission who fights exclusively with martial arts.",
