@@ -7,7 +7,7 @@ const App = () => {
 
 
 
-  <div className={`min-h-screen ${styles.container} flex flex-wrap justify-center items-center gap-8 py-12`}>
+  <div className={` ${styles.container} flex flex-wrap justify-center items-center gap-8 py-12`}>
 
 
       {Characters.map(function (elem,idx) {
