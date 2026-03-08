@@ -1,4 +1,4 @@
-import Cards from "./components/Cards";
+import Cards from "./components/Cards/Cards";
 import styles from "./styles/App.module.css";
 import  Characters  from "./components/Characterinfo";
 

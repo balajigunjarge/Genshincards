@@ -1,0 +1,46 @@
+
+
+
+
+.title{
+  font-family: "genshin-sub";
+  font-size:max(1.2vw,1.2rem) ;
+}
+
+
+
+/* card.module.css */
+
+.Anemo {
+ color: #75c3a9;
+}
+
+.Pyro {
+  color: #ef7a35;
+}
+
+.Hydro {
+  color: #4cc2f1;
+}
+
+.Cryo {
+  color: #a0d7e4;
+}
+
+.Geo {
+ color: #fabb2e;
+}
+
+.Electro {
+ color: #b08fc2;
+}
+
+.Dendro {
+  color: #a6c938;
+}
+
+
+
+p{
+  font-family: "popins";
+}

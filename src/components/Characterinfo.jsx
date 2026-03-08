@@ -134,7 +134,7 @@
     pfp: "/assets/Genshin/pfp/Kazuha.webp"
   },
   {
-    character: "Sangonomiya Kokomi",
+    character: "Kokomi",
     element: "Hydro",
     region: "Inazuma",
     about: "The Divine Priestess of Watatsumi Island and a brilliant military strategist hiding her low energy levels.",
