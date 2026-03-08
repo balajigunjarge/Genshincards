@@ -18,3 +18,9 @@
 
   font-display: swap;
 }
+
+
+
+html{
+  user-select: none;
+}
