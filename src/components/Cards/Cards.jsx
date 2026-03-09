@@ -6,15 +6,18 @@ const Cards = (props) => {
 
 
       <div className="relative">
-        <img className="w-80 rounded-2xl" src={props.backgroundImage} />
+        <img className="w-80 rounded-2xl ease-in" src={props.backgroundImage} loading="lazy" />
 
         <div className=" flex absolute top-1/4 left-6">
           <div className="w-20 rounded-3xl overflow-clip">
 
             <img
-              className="w-full h-full object-cover object-center  "
+              className="w-full h-full object-cover object-center rounded-3xl  "
               src={props.image}
               alt={props.name}
+              loading="lazy"
+
+
             />
           </div>
           <div className="p-1">

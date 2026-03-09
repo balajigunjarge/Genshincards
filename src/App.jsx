@@ -1,5 +1,8 @@
-import Cards from "./components/Cards/Cards";
+
 import styles from "./styles/App.module.css";
+
+import Cards from "./components/Cards/Cards";
+
 import  Characters  from "./components/Characterinfo";
 
 const App = () => {
